@@ -13,5 +13,5 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.name          = "string-width"
   gem.require_paths = ["lib"]
-  gem.version       = String::Width::VERSION
+  gem.version       = StringWidth::VERSION
 end

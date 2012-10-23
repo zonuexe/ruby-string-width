@@ -1,6 +1,6 @@
-# String::Width
+# StringWidth
 
-TODO: Write a gem description
+
 
 ## Installation
 
