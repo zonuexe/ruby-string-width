@@ -1,6 +1,2 @@
-require "string-width/version"
-require "string-width/require"
-
-module StringWidth
-  
-end
+require 'string-width/version'
+require 'string-width/require'
