@@ -15,5 +15,6 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = StringWidth::VERSION
 
-  gem.add_dependency 'string-width-tanasinn', '~>0.0.1'
+  gem.add_dependency 'string-width-tanasinn', '~>0.0.2'
+  gem.add_dependency 'thor', '~>0.16.0'
 end

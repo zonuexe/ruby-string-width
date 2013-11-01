@@ -2,6 +2,7 @@
 
 $: << File.expand_path(File.dirname(__FILE__))
 require 'spec_helper'
+require 'string-width'
 
 describe StringWidth::Tanasinn do
   module StringWidth
